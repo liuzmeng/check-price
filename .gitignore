@@ -1,0 +1,10 @@
+.idea
+.idea/
+.DS_Store
+ui/node_modules/
+ui/.project
+ui/dist
+ui/dist/*
+ui/src/config/*.tmp
+ui/src/config/env.js
+ui/npm-debug.log
