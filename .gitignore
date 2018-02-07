@@ -1,15 +1,4 @@
 .idea
 .idea/
 .DS_Store
-.editorconfig
-.eslintignore
-.eslintrc.js
-.gitignore
-.prettierrc
-.wepycache
-.wepyignore
-package.json
-src/
-wepy.config.js
-admin/
-mini-program/
+mini-program/dist/
