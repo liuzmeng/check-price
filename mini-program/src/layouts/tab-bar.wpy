@@ -1,0 +1,16 @@
+<template>
+    <view class="weui-tabbar">
+        <navigator class="weui-tabbar__item weui-bar__item_on">
+            <image class="weui-tabbar__icon"></image>
+            <text class="weui-tabbar__label"></text>
+        </navigator>
+    </view>
+</template>
+
+<script>
+    import wepy from 'wepy'
+
+    export default class TabBar extends wepy.component {
+
+    }
+</script>
